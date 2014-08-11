@@ -1,0 +1,13 @@
+This application is created using Yii. 
+ 
+Functionalities:
+
+	- Export the phonebook in csv format.
+	- Import phonebook data from csv format.(For this to be successfull, it must be in the same format as the downloadable file).
+	- Data also updates the file record when you add, create or delete a certain record.
+
+
+
+Note:
+   	- csv files will be uploaded on /phonebook/files
+	- phonebook.sql file is in the root folder of the application
